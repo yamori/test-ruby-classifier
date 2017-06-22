@@ -1,0 +1,13 @@
+food: McDonalds ice cream
+food: Starbucks ice coffee
+food: Angry Chef steak
+travel: Southwest ticket PVD to DCA
+travel: Amtrak Union station to Boston south station
+travel: Parkmobile parking app
+travel: Capital Bikeshare bike renewal
+travel: Ritz Carlton hotel in Boston
+food: Flo's clam shack
+food: Safeway grocery store
+food: Harris Teeter grocery store
+travel: WMATA bus pass refill
+travel: Uber receipt
